@@ -1,0 +1,9 @@
+this to work the strinutil folder should be exist in the following dir:
+
+$GOPATH/bin/stringutil/stringutil.go  
+
+and our code in:
+
+$GOPATH/src/github/ahmed-bahaa/linkedin/course1...
+
+then run $ go install  // here in this dir 
